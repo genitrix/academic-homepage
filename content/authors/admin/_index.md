@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuxuan Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Student of Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Beijing University of Posts and Telecommunications
+  url: https://english.bupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,11 +29,11 @@ education:
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Beijing University of Posts and Telecommunications
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: BSc in Software Engineering
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
